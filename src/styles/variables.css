@@ -1,0 +1,28 @@
+:root {
+  --bg-primary: #080b12;
+  --bg-secondary: #101827;
+  --map-surface: #172438;
+  --map-elevated: #203650;
+  --electric-blue: #2563eb;
+  --cyan-glow: #38bdf8;
+  --text-primary: #f8fafc;
+  --text-secondary: #94a3b8;
+  --border-territory: #334b68;
+  --panel-bg: rgba(10, 16, 27, 0.82);
+  --panel-border: rgba(56, 189, 248, 0.18);
+}
+
+@theme {
+  --color-abyss: #080b12;
+  --color-night: #101827;
+  --color-surface: #172438;
+  --color-elevated: #203650;
+  --color-electric: #2563eb;
+  --color-glow: #38bdf8;
+  --color-ice: #f8fafc;
+  --color-mist: #94a3b8;
+  --color-border-map: #334b68;
+  --font-display: "Space Grotesk Variable", "Segoe UI", system-ui, sans-serif;
+  --font-sans: "Inter Variable", "Segoe UI", system-ui, sans-serif;
+  --font-mono: "Cascadia Code", "SFMono-Regular", Consolas, monospace;
+}
